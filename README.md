@@ -45,6 +45,7 @@ Whether you're searching for a specific nation, filtering by region, or clicking
 - **🎨 Rapid Styling:** Fully responsive and elegantly styled using Tailwind CSS.
 - **🌓 Theme Customization:** Integrated Dark/Light mode toggling that respects user preferences.
 - **🧭 Dynamic Routing:** Uses React Router DOM for seamless transitions between the main grid and deep-dive detail pages.
+- **🔗 Smart Border Navigation:** Interactive border country tags allow users to traverse geographically connected nations instantly.
 - **🛡️ Polished UI/UX:** Features smooth micro-interactions, robust error handling, loading spinners, and beautifully crafted "Empty States".
 
 ---
@@ -67,11 +68,11 @@ Whether you're searching for a specific nation, filtering by region, or clicking
 
 ## 🛠️ Built With
 
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-* ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-* ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ---
 
@@ -80,11 +81,13 @@ Whether you're searching for a specific nation, filtering by region, or clicking
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
+
 Make sure you have Node.js and npm installed on your machine.
-* npm
+
+- npm
   ```sh
   npm install npm@latest -g
-````
+  ```
 
 ### Installation
 
@@ -105,13 +108,13 @@ Make sure you have Node.js and npm installed on your machine.
     npm run dev
     ```
 
------
+---
 
 ## 👨‍💻 Author
 
 **Muhammad Nassar**
 
-  * GitHub: [@N3ssar](https://www.google.com/search?q=https://github.com/N3ssar)
-  * LinkedIn: [Muhammad Ahmad Nassar](https://www.linkedin.com/in/muhammad-ahmad-nassar/)
+- GitHub: [@N3ssar](https://www.google.com/search?q=https://github.com/N3ssar)
+- LinkedIn: [Muhammad Ahmad Nassar](https://www.linkedin.com/in/muhammad-ahmad-nassar/)
 
 If you like this project, please consider giving it a ⭐\!
